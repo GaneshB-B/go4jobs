@@ -25,6 +25,7 @@
     "@mui/material": "^5.0.6",
     "@mui/styles": "^5.0.2",
     "@mui/x-data-grid": "^5.9.0",
+    "caniuse-lite": "^1.0.30001518",
     "chart.js": "^3.5.1",
     "date-fns": "^2.25.0",
     "formik": "^2.1.5",
